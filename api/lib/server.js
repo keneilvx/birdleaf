@@ -2,8 +2,7 @@ const http = require('http')
 const url = require ('url')
 const config = require('./config')
 
-
-    let server = {}
+let server = {}
 
 server = http.createServer(function (req, res){
 
