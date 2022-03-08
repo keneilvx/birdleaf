@@ -1,4 +1,5 @@
 # birdleaf
-vue.js application for recording bird sitings and their location. using tailwind .css and node backend API using pure node no external modules used
+vue.js application for recording bird sitings and their location. using tailwind .css and node backend API using pure node with express and mongoose 
+
 
 
