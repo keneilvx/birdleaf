@@ -1,0 +1,11 @@
+const mongoose = require ('mongoose')
+const schema = mongoose.Schema
+
+// create bird schema
+ let birdSchema = new schema({
+
+
+ })
+
+// Export bird model
+module.exports = birdSchema

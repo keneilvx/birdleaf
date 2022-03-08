@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 const schema = mongoose.Schema;
 
-
+//Create user model
 const userSchema = new schema ({
 
     username: {
@@ -24,5 +24,5 @@ const userSchema = new schema ({
 
 
 })
-
+//Export user model
 module.exports = userSchema
