@@ -3,7 +3,12 @@ const schema = mongoose.Schema
 
 // create bird schema
  let birdSchema = new schema({
-
+     bird :{
+       type: Object
+     },
+     user_id:{
+      type: String
+     }
 
  })
 
