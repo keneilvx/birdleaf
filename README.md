@@ -1,5 +1,6 @@
 # birdleaf
-vue.js application built on vite and vuejs, for bird lovers and hobbist to track and upload bird sitings and images of their favourite birds. Also, allows them to interact with other hobbist.
+Nuxt.js application, for bird lovers and hobbist to track and upload bird sitings and images of their favourite birds. Also, allows them to interact with other hobbist.
+
 
 # vue.js 
 
