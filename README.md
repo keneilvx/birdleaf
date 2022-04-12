@@ -2,14 +2,14 @@
 Nuxt.js application, for bird lovers and hobbist to track and upload bird sitings and images of their favourite birds. Also, allows them to interact with other hobbist.
 
 
-# vue.js 
+# react.js 
 
 npm i 
 
 Installs all dependencies in the project 
 
 
-npm run dev 
+npm run start
 
 run the development server locally 
 
