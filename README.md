@@ -1,5 +1,5 @@
 # birdleaf
-Nuxt.js application, for bird lovers and hobbist to track and upload bird sitings and images of their favourite birds. Also, allows them to interact with other hobbist.
+React.js application, for bird lovers and hobbist to track and upload bird sitings and images of their favourite birds. Also, allows them to interact with other hobbist.
 
 
 # react.js 
